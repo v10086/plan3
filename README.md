@@ -92,7 +92,7 @@ API 请求
 ------------------------------------------------------------
 
 
-![1](https://github.com/v10086/easyswoole/blob/master/test/20180701214348.png) 
+![1](https://github.com/v10086/plan3/blob/master/test/20180701214348.png) 
 
 
 
@@ -110,7 +110,7 @@ ab -c 200  -n 1000000 127.0.0.1:8080/
 
 测压结果
 ------------------------------------------------------------
-![test](https://github.com/v10086/easyswoole/blob/master/test/abtest.png) 
+![test](https://github.com/v10086/plan3/blob/master/test/abtest.png) 
 
 
 
