@@ -92,7 +92,7 @@ API 请求
 ------------------------------------------------------------
 
 
-![1](https://github.com/v10086/plan3/blob/master/test/20180701214348.png) 
+![1](https://github.com/v10086/plan3/blob/master/data/image/%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.png) 
 
 
 
@@ -110,7 +110,7 @@ ab -c 200  -n 1000000 127.0.0.1:8080/
 
 测压结果
 ------------------------------------------------------------
-![test](https://github.com/v10086/plan3/blob/master/test/abtest.png) 
+![test](https://github.com/v10086/plan3/blob/master/data/image/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.png) 
 
 
 
